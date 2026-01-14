@@ -210,8 +210,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 119.68576416760095,
-			"y": -305.12029143144576,
+			"x": 66.23337113403052,
+			"y": -31.176777134397096,
 			"z": 0.7483294522450706,
 			"meta": {},
 			"id": "camera:page:page",
@@ -307,7 +307,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:GWxLi_jAmozN7aRROJbBw"
+				"shape:57JpUVxoi0pMJYC4NC7cS"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -407,8 +407,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1282.4895201968156,
-			"y": 557.1332547969552,
+			"x": 1297.38483991445,
+			"y": 556.4064568930213,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -418,7 +418,7 @@
 			"props": {
 				"color": "light-green",
 				"size": "l",
-				"w": 145.2578125,
+				"w": 120.453125,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -437,7 +437,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Execute"
+									"text": "Solved"
 								}
 							]
 						}
@@ -607,7 +607,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "move",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -618,7 +618,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 1872,
-				"h": 589
+				"h": 581
 			},
 			"insets": [
 				false,

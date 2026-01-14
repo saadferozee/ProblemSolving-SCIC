@@ -79,8 +79,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 239.72829598763408,
-			"y": -174.244659498486,
+			"x": 236.72953198687745,
+			"y": -81.2829754750179,
 			"z": 0.6669414463742737,
 			"meta": {},
 			"id": "camera:page:page",
@@ -143,7 +143,7 @@
 				"dash": "draw",
 				"size": "m",
 				"fill": "none",
-				"color": "light-green",
+				"color": "black",
 				"labelColor": "black",
 				"bend": 15.345250091499507,
 				"start": {
@@ -176,8 +176,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:OvM7F6-veWkC97bnanjaV",
-				"shape:67YcLVDtYchHTJIqQeKyS"
+				"shape:sB9ug46YncCxRcutfPuBY"
 			],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
@@ -240,7 +239,7 @@
 				"dash": "draw",
 				"size": "m",
 				"fill": "none",
-				"color": "light-green",
+				"color": "black",
 				"labelColor": "black",
 				"bend": 9.075100471798754,
 				"start": {
@@ -284,7 +283,7 @@
 				"dash": "draw",
 				"size": "m",
 				"fill": "none",
-				"color": "light-green",
+				"color": "black",
 				"labelColor": "black",
 				"bend": -89.62772880910208,
 				"start": {
@@ -368,7 +367,7 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:color": "light-green",
+				"tldraw:color": "black",
 				"tldraw:font": "draw",
 				"tldraw:geo": "rectangle",
 				"tldraw:size": "m"
@@ -376,7 +375,7 @@
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "move",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -387,7 +386,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 1872,
-				"h": 589
+				"h": 581
 			},
 			"insets": [
 				false,
@@ -505,8 +504,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 967.034719523677,
-			"y": 543.1250777300061,
+			"x": 983.180164472089,
+			"y": 542.3102280393707,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -516,7 +515,7 @@
 			"props": {
 				"color": "light-green",
 				"size": "l",
-				"w": 145.2578125,
+				"w": 120.453125,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -535,7 +534,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Execute"
+									"text": "Solved"
 								}
 							]
 						}

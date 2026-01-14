@@ -42,8 +42,8 @@
 			"typeName": "pointer"
 		},
 		{
-			"x": 298.8161188576791,
-			"y": 878.3853341115388,
+			"x": 313.84205342341164,
+			"y": 802.0219693956014,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -53,7 +53,7 @@
 			"props": {
 				"color": "light-green",
 				"size": "l",
-				"w": 145.2578125,
+				"w": 120.453125,
 				"font": "draw",
 				"textAlign": "start",
 				"autoSize": true,
@@ -72,7 +72,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "Execute"
+									"text": "Solved"
 								}
 							]
 						}
@@ -84,8 +84,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 882.8903106648645,
-			"y": 645.5128097132783,
+			"x": 2707.857778417151,
+			"y": 608.7468177196215,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -121,8 +121,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 1001.1870214905688,
-			"y": 751.3826573984517,
+			"x": 2826.1544892428556,
+			"y": 714.6166654047948,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -199,8 +199,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 249.15796148359684,
-			"y": 857.963263632857,
+			"x": 280.699673991845,
+			"y": 795.4994875772071,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -208,8 +208,8 @@
 			"id": "shape:6esQSqeeIVcf8xlCWcuSy",
 			"type": "geo",
 			"props": {
-				"w": 245.0457069269594,
-				"h": 90.47112176765779,
+				"w": 194.961740078439,
+				"h": 65.8842938819065,
 				"geo": "rectangle",
 				"dash": "draw",
 				"growY": 0,
@@ -236,16 +236,16 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 5.075731934367198,
-			"y": -477.5690701361109,
-			"z": 0.8813560620131166,
+			"x": 323.19145343378887,
+			"y": -185.3433943923949,
+			"z": 0.9268809545458654,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
 		},
 		{
-			"x": 780.8304409741897,
-			"y": 676.0853881835938,
+			"x": 2605.7979087264766,
+			"y": 639.3193961899369,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -325,8 +325,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 675.1589794884104,
-			"y": 770.540897274557,
+			"x": 657.976923759747,
+			"y": 702.5479560067482,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -341,10 +341,10 @@
 				"fill": "none",
 				"color": "black",
 				"labelColor": "black",
-				"bend": -45.72913029135963,
+				"bend": -18.07216399504033,
 				"start": {
-					"x": -15.710661156661104,
-					"y": 4.495017444234691
+					"x": -77.2094705946447,
+					"y": 61.925676706647664
 				},
 				"end": {
 					"x": -156.69815131728467,
@@ -365,12 +365,12 @@
 				"scale": 1
 			},
 			"parentId": "page:page",
-			"index": "aLE3mOIV",
+			"index": "a4oB62kd",
 			"typeName": "shape"
 		},
 		{
-			"x": 995.0165369422175,
-			"y": 518.8990284485551,
+			"x": 2819.984004694504,
+			"y": 482.1330364548983,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -435,8 +435,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 780.703125,
-			"y": 564.5,
+			"x": 2605.6705927522867,
+			"y": 527.7340080063432,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -523,8 +523,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 781.45166015625,
-			"y": 564.4603881835938,
+			"x": 2606.4191279085367,
+			"y": 527.6943961899369,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -599,12 +599,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:ZlAZQYXmcin0vsP6sWEJP",
+			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [
-				"shape:ZlAZQYXmcin0vsP6sWEJP"
+				"shape:QGJeqczoAHjJaJ86cjoUr"
 			],
-			"hoveredShapeId": "shape:ZlAZQYXmcin0vsP6sWEJP",
+			"hoveredShapeId": "shape:QGJeqczoAHjJaJ86cjoUr",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -614,8 +614,8 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": 780.2190229773292,
-			"y": 789.6337890625,
+			"x": 2605.186490729616,
+			"y": 752.8677970688432,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -658,8 +658,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 885.9540079648652,
-			"y": 506.0435697119193,
+			"x": 2710.921475717152,
+			"y": 469.2775777182625,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -732,8 +732,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 995.9429284843309,
-			"y": 654.9697190553549,
+			"x": 2820.9103962366175,
+			"y": 618.203727061698,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -786,8 +786,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 720.328125,
-			"y": 676.34375,
+			"x": 2545.2955927522867,
+			"y": 639.5777580063432,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -961,8 +961,8 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 886.511966082415,
-			"y": 735.7295649745589,
+			"x": 2711.479433834702,
+			"y": 698.9635729809021,
 			"rotation": 0,
 			"isLocked": false,
 			"opacity": 1,
@@ -1015,14 +1015,17 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:color": "black",
-				"tldraw:size": "l",
-				"tldraw:font": "mono"
+				"tldraw:color": "grey",
+				"tldraw:size": "s",
+				"tldraw:font": "mono",
+				"tldraw:geo": "rectangle",
+				"tldraw:fill": "semi",
+				"tldraw:dash": "dashed"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "grabbing",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -1033,7 +1036,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 1872,
-				"h": 476
+				"h": 788
 			},
 			"insets": [
 				false,
@@ -1124,6 +1127,43 @@
 			},
 			"parentId": "page:page",
 			"index": "a3hDlitV",
+			"typeName": "shape"
+		},
+		{
+			"x": 2544.6800899773857,
+			"y": 461.2436416853264,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:OxGgc0SwLMDGPfGFYBPxz",
+			"type": "geo",
+			"props": {
+				"w": 1067.1922336937528,
+				"h": 388.13684871569893,
+				"geo": "rectangle",
+				"dash": "dashed",
+				"growY": 0,
+				"url": "",
+				"scale": 1,
+				"color": "grey",
+				"labelColor": "black",
+				"fill": "semi",
+				"size": "s",
+				"font": "mono",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph"
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aMQGwFpV",
 			"typeName": "shape"
 		},
 		{
